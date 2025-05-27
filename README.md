@@ -24,4 +24,4 @@
 - En configuración inicial y estructura del proyecto
 
 ## Wiki del Proyecto
-[Ver Propuesta del Proyecto – Boldo Dash] https://github.com/ArenasTI/Boldo-Dash/wiki/Propuesta-del-Proyecto----Boldo-Dash](https://github.com/ArenasTI/Boldo-Dash/wiki/Proyecto-%E2%80%93-Boldo-Dash
+[Ver Propuesta del Proyecto – Boldo Dash] https://github.com/ArenasTI/Boldo-Dash/wiki/Proyecto-–-Boldo-Dash
