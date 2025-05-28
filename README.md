@@ -8,9 +8,14 @@
 - Tiago Rodrigo Arenas
 - Lucas Rolandi
 
-## Tecnologias Utilizadas
+## Tecnologías Utilizadas
 
 - [LibGDX](https://libgdx.com/)
+- [JAVA].
+- [Eclipse]
+  
+##  Plataforma Objetivo
+- [Windows]
 
 ## Como compilar y ejecutar
 
