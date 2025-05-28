@@ -15,7 +15,7 @@
 - [Eclipse](https://eclipseide.org/)
   
 ##  Plataforma Objetivo
-- [Windows]
+- [Windows](https://www.microsoft.com/es-es/software-download/windows11)
 
 ## Como compilar y ejecutar
 
