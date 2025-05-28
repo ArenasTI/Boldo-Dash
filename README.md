@@ -17,7 +17,7 @@
 ##  Plataforma Objetivo
 - [Windows](https://www.microsoft.com/es-es/software-download/windows11)
 
-## Como compilar y ejecutar
+## Como Compilar y Ejecutar
 
 - git clone https://github.com/ArenasTI/Pre-entrega-N-1.git
 - cd Pre-entrega-N-1
@@ -25,7 +25,7 @@
 - gradlew.bat desktop:run
 - ./gradlew desktop:run
 
-## Importar y ejecutar desde un IDE
+## Importar y Ejecutar desde un IDE
 
 - Abrir el IDE (por ejemplo, IntelliJ o Eclipse).
 - Seleccionar "Importar proyecto" y elegir la carpeta del proyecto.
@@ -34,7 +34,7 @@
 - Ejecutar la tarea `desktop:run` desde el panel de Gradle o configurarla como ejecución principal.
 
 
-## Estado Actual del proyecto
+## Estado Actual del Proyecto
 
 - En configuración inicial y estructura del proyecto
 
