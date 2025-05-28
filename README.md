@@ -23,10 +23,11 @@
 - cd Pre-entrega-N-1
 - Asegurate de tener Java JDK y Gradle instalado
 - gradlew.bat desktop:run
+- ./gradlew desktop:run
 
 ## Estado Actual del proyecto
 
 - En configuración inicial y estructura del proyecto
 
 ## Wiki del Proyecto
-[Ver Propuesta del Proyecto – Boldo Dash] https://github.com/ArenasTI/Boldo-Dash/wiki/Proyecto-–-Boldo-Dash
+[Ver Propuesta del Proyecto – Boldo Dash] (https://github.com/ArenasTI/Boldo-Dash/wiki/Proyecto-–-Boldo-Dash)
