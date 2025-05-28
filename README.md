@@ -11,8 +11,8 @@
 ## Tecnologías Utilizadas
 
 - [LibGDX](https://libgdx.com/)
-- [JAVA].
-- [Eclipse]
+- [JAVA](https://www.java.com/es/)
+- [Eclipse](https://eclipseide.org/)
   
 ##  Plataforma Objetivo
 - [Windows]
