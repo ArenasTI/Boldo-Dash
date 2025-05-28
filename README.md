@@ -25,6 +25,15 @@
 - gradlew.bat desktop:run
 - ./gradlew desktop:run
 
+## Importar y ejecutar desde un IDE
+
+1. Abrir el IDE (por ejemplo, IntelliJ o Eclipse).
+2. Seleccionar "Importar proyecto" y elegir la carpeta del proyecto.
+3. Elegir la opción de importar como proyecto **Gradle**.
+4. Esperar a que se descarguen las dependencias.
+5. Ejecutar la tarea `desktop:run` desde el panel de Gradle o configurarla como ejecución principal.
+
+
 ## Estado Actual del proyecto
 
 - En configuración inicial y estructura del proyecto
