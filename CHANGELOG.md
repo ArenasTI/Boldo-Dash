@@ -1,6 +1,6 @@
 # Changelog
 
-Este archivo sigue el formato del estándar [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y utiliza el versionado semántico. Aquí se documentan todos los cambios relevantes realizados en el proyecto, ordenados por versión.
+Este archivo sigue el formato del estándar [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/). Aquí se documentan todos los cambios relevantes realizados en el proyecto, ordenados por versión.
 
 ## [Unreleased]
 
